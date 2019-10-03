@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Pusulasoft_Turkish_Language_Package",
+    "name": "OpenMageModuleFostering\/Pusulasoft_Turkish_Language_Package",
     "type": "magento-module",
     "license": "GNU-General-Public-License",
     "homepage": "",
     "description": "Turkish Language Package",
     "authors": [
-    {
-        "name": "PusulaSoft Bilisim",
-        "email": "info@pusulasoft.com.tr"
-    }
-],
+        {
+            "name": "PusulaSoft Bilisim",
+            "email": "info@pusulasoft.com.tr"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
